@@ -1,0 +1,23 @@
+{
+  "todoList": [
+    {
+      "text": "oner",
+      "id": 1598528866067
+    },
+    {
+      "id": 1598541553993,
+      "text": "twos",
+      "isImportant": true,
+      "isDone": false
+    },
+    {
+      "id": 1598541558776,
+      "text": "khgchvbthrees kblj.",
+      "isImportant": false,
+      "isDone": true
+    }
+  ],
+  "mode": {
+    "mode": "dark"
+  }
+}
